@@ -427,8 +427,6 @@ Error message and password prompt
 
 <li>Home</li>
 
-<li>tiddlywiki.com</li>
-
 </ul>
 </p>
 
@@ -12127,11 +12125,11 @@ exports.context = contextWidget;
 <div created="20200602204930306" modified="20200602204943685" title="$:/state/tab-2065006209">
 <pre>$:/core/ui/ControlPanel/Saving/Gitea</pre>
 </div>
-<div created="20200418122101344" modified="20200602204845678" title="$:/state/tab/moresidebar-1850697562">
-<pre>$:/core/ui/MoreSideBar/All</pre>
+<div created="20200418122101344" modified="20200606181744715" title="$:/state/tab/moresidebar-1850697562">
+<pre>$:/core/ui/MoreSideBar/Tags</pre>
 </div>
-<div created="20200418121835270" modified="20200604032717319" title="$:/state/tab/sidebar--595412856">
-<pre>$:/core/ui/SideBar/Open</pre>
+<div created="20200418121835270" modified="20200606181752557" title="$:/state/tab/sidebar--595412856">
+<pre>$:/core/ui/SideBar/Recent</pre>
 </div>
 <div created="20200504200956301" modified="20200602021615053" title="$:/state/tabs/controlpanel/toolbars-1345989671">
 <pre>$:/core/ui/ControlPanel/Toolbars/PageControls</pre>
@@ -12154,7 +12152,7 @@ exports.context = contextWidget;
 <div bag="default" revision="1" title="$:/status/UserName">
 <pre></pre>
 </div>
-<div created="20200602195357842" list="About Home" modified="20200603031515061" title="$:/StoryList">
+<div created="20200606181750873" list="Home About" modified="20200606181806471" title="$:/StoryList">
 <pre></pre>
 </div>
 <div created="20200519141000553" list="$:/.giffmex/Buttons/more-tiddler-edit-actions $:/core/ui/Buttons/delete $:/core/ui/Buttons/cancel $:/core/ui/Buttons/save" modified="20200521145647980" tags="$:/giffmex/bigeditarea $:/giffmex/stroll" title="$:/tags/EditToolbar">
@@ -12188,19 +12186,19 @@ exports.context = contextWidget;
         },
         &quot;$:/info/url/full&quot;: {
             &quot;title&quot;: &quot;$:/info/url/full&quot;,
-            &quot;text&quot;: &quot;file:///home/ian/docs/Tiddly/website.html&quot;
+            &quot;text&quot;: &quot;https://imhinesmi.github.io/website.html&quot;
         },
         &quot;$:/info/url/host&quot;: {
             &quot;title&quot;: &quot;$:/info/url/host&quot;,
-            &quot;text&quot;: &quot;&quot;
+            &quot;text&quot;: &quot;imhinesmi.github.io&quot;
         },
         &quot;$:/info/url/hostname&quot;: {
             &quot;title&quot;: &quot;$:/info/url/hostname&quot;,
-            &quot;text&quot;: &quot;&quot;
+            &quot;text&quot;: &quot;imhinesmi.github.io&quot;
         },
         &quot;$:/info/url/protocol&quot;: {
             &quot;title&quot;: &quot;$:/info/url/protocol&quot;,
-            &quot;text&quot;: &quot;file:&quot;
+            &quot;text&quot;: &quot;https:&quot;
         },
         &quot;$:/info/url/port&quot;: {
             &quot;title&quot;: &quot;$:/info/url/port&quot;,
@@ -12208,7 +12206,7 @@ exports.context = contextWidget;
         },
         &quot;$:/info/url/pathname&quot;: {
             &quot;title&quot;: &quot;$:/info/url/pathname&quot;,
-            &quot;text&quot;: &quot;/home/ian/docs/Tiddly/website.html&quot;
+            &quot;text&quot;: &quot;/website.html&quot;
         },
         &quot;$:/info/url/search&quot;: {
             &quot;title&quot;: &quot;$:/info/url/search&quot;,
@@ -12216,7 +12214,7 @@ exports.context = contextWidget;
         },
         &quot;$:/info/url/origin&quot;: {
             &quot;title&quot;: &quot;$:/info/url/origin&quot;,
-            &quot;text&quot;: &quot;null&quot;
+            &quot;text&quot;: &quot;https://imhinesmi.github.io&quot;
         },
         &quot;$:/info/browser/screen/width&quot;: {
             &quot;title&quot;: &quot;$:/info/browser/screen/width&quot;,
@@ -12404,9 +12402,6 @@ See the [[control panel|$:/ControlPanel]] for more options.
 <pre>This is the personal website of Ian Hines. Right now it's pretty empty.
 
 For more about me, visit [[About]].</pre>
-</div>
-<div created="20200604032832776" modified="20200604032832776" title="tiddlywiki.com">
-<pre></pre>
 </div>
 
 
