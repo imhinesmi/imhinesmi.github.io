@@ -1,2 +1,0 @@
-# imhinesmi.github.io
-website
